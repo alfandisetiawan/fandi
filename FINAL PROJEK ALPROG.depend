@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1577783183 source:e:\codeblocks\final projek alprog\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<unistd.h>
+	<iomanip>
+	<fstream>
+	<stdio.h>
+
